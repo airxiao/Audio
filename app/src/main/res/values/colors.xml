@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_color_white">#FFFFFF</color>
+    <color name="bg_title_select_blue">#3997FE</color>
+    <color name="ucs_text_color_theme">#3897FE</color>
+    <color name="ucs_text_color_black">#1E1E1E</color>
+    <color name="uc_color_313131">#313131</color>
+    <color name="uc_color_a5a5a5a">#a5a5a5</color>
+    <color name="uc_color_ff3b44">#ff3b44</color>
+    <color name="uc_color_18c931">#18c931</color>
+    <color name="uc_color_e2e2e2">#e2e2e2</color>
+    <color name="uc_color_bbbbbb">#bbbbbb</color>
+    <color name="uc_color_f2f4f6">#f2f4f6</color>
+
+    <color name="text_color_common_task">#313131</color>
+    <color name="text_color_tip_task">#a5a5a5</color>
+    <color name="task_search_bg">#ecedee</color>
+    <color name="task_text_deal">#f6f9ff</color>
+    <color name="task_process_flow_blue">#3996fe</color>
+    <color name="task_devider">#ecedee</color>
+    <color name="task_light_gray">#9ff2f4f6</color>
+
+    <color name="task_level_1">#71b43c</color>
+    <color name="task_level_2">#eacb1e</color>
+    <color name="task_level_3">#ffb449</color>
+    <color name="task_level_4">#ff8648</color>
+    <color name="task_level_5">#f54744</color>
+
+    <color name="task_position_chosen">#157Efb</color>
+
+    <color name="task_search_title_color">#A5A5A5</color>
+    <color name="search_date_text_color">#1E1E1E</color>
+
+
+    <color name="uc_txt_313131">#313131</color>
+</resources>

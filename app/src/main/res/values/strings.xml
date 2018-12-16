@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Audio</string>
+
+    <string name="uc_common_cancel">取消</string>
+    <string name="uc_common_complete">完成</string>
+    <string name="uc_audio_press_record">按住录音</string>
+    <string name="uc_audio_release_end">松开结束</string>
+    <string name="uc_audio_play">播放</string>
+    <string name="uc_audio_pause">暂停</string>
+    <string name="uc_audio_reset">撤销</string>
+    <string name="uc_audio_playback">回放</string>
+
+    <string name="task_tip_record_time_limit">请至少录制1秒钟录音</string>
+    <string name="task_file_download_fail">加载失败</string>
+    <string name="task_tip_load_data_fail">数据加载失败</string>
+</resources>
